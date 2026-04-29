@@ -41,9 +41,9 @@ Convenience sampling
 
 Statistical analysis including:
 
-  Mean, median, and mode
+  -Mean, median, and mode
 
-  Distribution analysis
+  -Distribution analysis
 
 Visualization of key trends (shopping frequency, preferences, etc.)
 
@@ -53,15 +53,15 @@ No clear dominance between local and international brands
 
 Local brands are favored for:
 
-  Lower prices
+  -Lower prices
 
-  Better value for money
+  -Better value for money
 
 International brands are preferred for:
 
-  Perceived quality
+  -Perceived quality
 
-  Brand trust
+  -Brand trust
 
 Consumers tend to balance between price and quality rather than choosing one category exclusively
 
